@@ -43,7 +43,7 @@ Contributions to enhance the functionality, performance, and usability of this s
 
 Feedback and Support:
 
-For any inquiries, feedback, or assistance, please reach out to [ aksyb384@gmail.com ]. We value your input and are committed to providing prompt support to ensure a seamless experience with our software.
+For any inquiries, feedback, or assistance, please reach out to [ sumitcoder987@gmail.com ] or follow me on linkedln[ https://linkedin.com/in/Sumit-Programmer ]. We value your input and are committed to providing prompt support to ensure a seamless experience with our software.
 
 Acknowledgments:
 
